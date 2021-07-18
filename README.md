@@ -104,6 +104,14 @@ The signals your company sends about its culture greatly influence whether you a
 
 [If Women Don't Apply to Your Company, This Is Probably Why](https://hbr.org/2019/10/if-women-dont-apply-to-your-company-this-is-probably-why)
 
+### We’re Hiring Engineers All Wrong. Here’s How HuffPost Evolved       
+Blog by Alan Johnson  
+
+**Abstract**      
+There’s a great deal of research out there on best practices for interviewing. But for whatever reason, it seems the software industry has gravitated toward a set of practices that don’t really align with the goal of hiring the right people. And we at HuffPost have fallen into some of these pitfalls in the past. What follows is an account of how we have rethought our engineering hiring practices.         
+
+[We’re Hiring Engineers All Wrong. Here’s How HuffPost Evolved](https://www.huffpost.com/entry/were-hiring-engineers-all-wrong_b_7973484)     
+
 ### Stop Hiring As If We’re In The Industrial Age
 Podcast by Kim Crayton 
 
@@ -118,7 +126,7 @@ Twitter Thread by Ashraf Abed
 **Key takeaways**    
 Space out your initial interviews, improve every week, don't interview at your dream job(s) first, do multiple interviews in quick succession, most interviewers aren't prepare, redirect questions you can't answer, portofios matter, accomplishments, remember why, and more.   
 
-[Twitter Thread](https://twitter.com/ashabed/status/1353353770680414210)    
+[Twitter Thread](https://twitter.com/ashabed/status/1353353770680414210)  
 
 ## Job Post 
 
@@ -246,7 +254,8 @@ This question can cause your interviewee to relive past trauma while causing cur
 Better questions are “why are you interested in our company?” or about what did you like/dislike previous *technical* projects, languages, frameworks, etc. 
 
 [Twitter thread](https://twitter.com/bossnayamoss/status/1177650048101945344)  
-[Similar thread](https://twitter.com/mekkaokereke/status/1300451278720397313)  
+[Similar thread](https://twitter.com/mekkaokereke/status/1300451278720397313)     
+[Similar thread](https://twitter.com/SeanTalentW/status/1415661936956645380?s=20)       
 
 Credit [Business & Ally Newsletter](https://www.diversifytech.co/business-ally-newsletter/)
 
