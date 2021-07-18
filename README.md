@@ -164,6 +164,7 @@ Paid job boards to post your jobs
 [Diversity](https://diversity.com/)  
 [Diveristy Jobs](https://www.diversityjobs.com/)     
 [Underrepresented in Tech](https://www.underrepresentedintech.com/)        
+[Blacks in Technology](https://www.blacksintechnology.net/jobs-board/)       
 
 ## Interviewing 
 
